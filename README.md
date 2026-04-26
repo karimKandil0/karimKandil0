@@ -1,75 +1,30 @@
 # Karim Kandil
 
-I enjoy building software, learning systems programming, and contributing to open source.
+Systems developer. 17. Cairo.
 
-Currently focused on:
-- Algorithmic problem solving (Advent of Code)
-- Systems programming with Rust
-- Python tooling and scripting
-- Linux / NixOS development environments
+I work across the stack — from bare-metal kernel code to infrastructure tooling — with a preference for correctness and simplicity over cleverness.
 
----
-
-## Technologies
-
-Languages
-
-- Python
-- Rust
-- TypeScript
-- JavaScript
-
-Tools
-
-- Linux
-- Nix / NixOS
-- Git
-- Neovim
-- Node.js
-
----
+-----
 
 ## Projects
 
-### Advent of Code
-Solutions for Advent of Code puzzles with a reproducible development environment.
+**[K-ernel](https://github.com/karimKandil0/K-ernel)** — Hobbyist kernel written in Rust. Implements basic arch, memory, drivers, shell, storage, and sync primitives.
 
-Features:
-- Python and Rust implementations
-- Nix development shell
-- Scripts to fetch puzzle input and scaffold new solutions
+**[StarterLab](https://github.com/karimKandil0/StarterLab)** — Self-hosted dev environment bootstrapper. Provisions a full Docker stack (Grafana, reverse proxy, homepage) with a single command.
 
-Repository:
-https://github.com/karimKandil0/advent-of-code
+**[.dotfiles](https://github.com/karimKandil0/.dotfiles)** — NixOS flake-based system config with Home Manager, modular structure, and SOPS-managed secrets.
 
----
-
-### NextJS E-Commerce App
-Experimenting with building a modern web storefront using Next.js and TypeScript.
-
----
-
-### HackerNews News (Rust)
-A Rust project exploring CLI / API interaction with Hacker News.
-
----
-
-## Current Learning
-
-Right now I am focusing on:
-
-- improving problem solving through Advent of Code
-- writing more Rust
-- contributing to open source projects
-
----
+-----
 
 ## Open Source
 
-Recently started contributing to open source projects such as Storybook.
+- **NixOS/nixpkgs** — systemd service hardening ([#507386](https://github.com/NixOS/nixpkgs/pull/507386)), coreutils test fix ([#509005](https://github.com/NixOS/nixpkgs/pull/509005))
+- **storybookjs/storybook** — CSS scoping fix ([#34064](https://github.com/storybookjs/storybook/pull/34064))
+- **kevinanielsen/go-fast-cdn** — deprecated API migration ([#236](https://github.com/kevinanielsen/go-fast-cdn/pull/236))
+- **Deadlink-Hunter/Broken-Link-Website** — styling fix ([#412](https://github.com/Deadlink-Hunter/Broken-Link-Website/pull/412))
 
----
+-----
 
-## Contact
+## Stack
 
-GitHub: https://github.com/karimKandil0
+Rust · Nix · TypeScript · Python · Docker · systemd · Shell
