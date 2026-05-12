@@ -8,6 +8,8 @@ I work across the stack — from bare-metal kernel code to infrastructure toolin
 
 ## Projects
 
+**[githut](https://github.com/karimKandil0/githut)** — Github in your terminal. discover and surf github from within the terminal.
+
 **[K-ernel](https://github.com/karimKandil0/K-ernel)** — Hobbyist kernel written in Rust. Implements basic arch, memory, drivers, shell, storage, and sync primitives.
 
 **[StarterLab](https://github.com/karimKandil0/StarterLab)** — Self-hosted dev environment bootstrapper. Provisions a full Docker stack (Grafana, reverse proxy, homepage) with a single command.
